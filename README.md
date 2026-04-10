@@ -3,7 +3,7 @@
 Smart recipe suggester by time & location – offline-first
 
 ### 🚀 Build Status
-![Flutter CI-CD](https://github.com/Shubhampanigrahi6/mealtex/actions/workflows/main.yml/badge.svg)
+![Flutter CI-CD](https://github.com/Shubhampanigrahi6/testmeal/actions/workflows/main.yml/badge.svg)
 
 ### 📱 Download Latest APK
 You can download the latest version of the app directly from the [Releases Page](https://github.com/Shubhampanigrahi6/testmeal/releases).
