@@ -2,15 +2,30 @@
 
 Smart recipe suggester by time & location – offline-first
 
-## Getting Started
+### 🚀 Build Status
+![Flutter CI-CD](https://github.com/Shubhampanigrahi6/mealtex/actions/workflows/main.yml/badge.svg)
 
-This project is a starting point for a Flutter application.
+### 📱 Download Latest APK
+You can download the latest version of the app directly from the [Releases Page](https://github.com/Shubhampanigrahi6/testmeal/releases).
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ✨ Features
+* **Offline-First:** View saved recipes anywhere with Hive local storage.
+* **Smart Suggestions:** Get meal ideas based on the time of day and your location.
+* **Premium UI:** Modern glassmorphic design and smooth animations.
+* **Automated CI/CD:** Every update is automatically tested and built into an APK via GitHub Actions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Tech Stack
+* **Framework:** Flutter (Android & iOS)
+* **State Management:** Riverpod 2.x
+* **Database:** Hive
+* **Navigation:** GoRouter
+* **CI/CD:** GitHub Actions
+
+---
+
+### 🏗️ How to Run Locally
+1. Clone the repo:
+   ```bash
+   git clone [https://github.com/Shubhampanigrahi6/testmeal.git)
