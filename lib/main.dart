@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:permission_handler/permission_handler.dart';
 
 // Services
 import 'services/notification_service.dart';
@@ -10,8 +9,6 @@ import 'services/location_service.dart';
 // Data
 import 'data/datasources/local_datasource.dart';
 
-// Providers
-import 'core/providers/app_providers.dart';
 
 // Screens
 import 'presentation/screens/home_screen.dart';
@@ -20,7 +17,6 @@ import 'presentation/screens/favorites_screen.dart';
 import 'presentation/screens/category_screen.dart';
 import 'presentation/screens/area_screen.dart';
 import 'presentation/screens/ingredient_screen.dart';
-import 'presentation/screens/meal_detail_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -7,7 +7,6 @@ import '../../core/providers/app_providers.dart';
 import 'meal_detail_screen.dart';
 import 'category_screen.dart';
 import 'area_screen.dart';           // ← New
-import 'ingredient_screen.dart';
 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});

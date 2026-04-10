@@ -3,7 +3,6 @@ import 'package:timezone/timezone.dart' as tz;
 import 'package:timezone/data/latest.dart' as tz_data;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/providers/app_providers.dart'; // For recommended category
-import '../data/repositories/meal_repository.dart';
 import 'dart:math';
 
 class NotificationService {
